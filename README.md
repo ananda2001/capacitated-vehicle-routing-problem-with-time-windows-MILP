@@ -1,6 +1,6 @@
 # Capacitated Vehicle Routing Problem With Time Windows As A Mixed Integer Linear Program
 
-A MILP formulation of the capacitated vehicle routing problem with time windows (CVRPTW). We use soft time windows with a weighted penalty in the objective function to discourage lateness while maintaining feasibility at all times.
+A MILP formulation of the capacitated vehicle routing problem with time windows (CVRPTW). We use soft time windows with a weighted penalty in the objective function to discourage lateness while maintaining feasibility at all times. I used [this codebase](https://github.com/sudhan-bhattarai/vehicle_routing_problem?tab=readme-ov-file) as a starting point for my formulation.
 
 To run the code, first please make sure you have the following python libraries installed: ``gurobipy, geopandas, geopy contextily, Shapely, matplotlib, numpy``, or just run the command ``pip install -r requirements.txt``. You will need a valid Gurobi license to use Gurobi, for more information please click on [this link](https://www.gurobi.com/solutions/licensing/).
 
