@@ -12,4 +12,4 @@ After making sure all the dependencies are installed, all you have to do is run 
 
 After running the code, the model will the saved in the project directory as ``cvrptw_model.lp``, along with the plots of the customer nodes (locations) and the optimal solution.
 
-For more details about the problem including the mathematical formulation and test results, please read the documentation by clicking on [this link]([)](https://github.com/ananda2001/capacitated-vehicle-routing-problem-with-time-windows-MILP/blob/main/Documentation.pdf).
+For more details about the problem including the mathematical formulation and test results, please read the documentation by clicking on [this link](https://github.com/ananda2001/capacitated-vehicle-routing-problem-with-time-windows-MILP/blob/main/Documentation.pdf).
